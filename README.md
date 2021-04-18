@@ -1,2 +1,2 @@
 # GitPython
-this My python exp
+this my python exp
